@@ -5,7 +5,7 @@ import transportSvg from "../assets/transport.svg"
 import othersSvg from "../assets/others.svg"
 
 export const CATEGORIES = {
-  accomodation: {
+  accommodation: {
     name: "Hospedagem",
     icon: accomodationSvg
   },
